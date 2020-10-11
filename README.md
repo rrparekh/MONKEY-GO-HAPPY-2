@@ -1,1 +1,2 @@
-# MONKEY-GO-HAPPY-2
+# MonkeyGoHappy2
+Monkey Go Happy 2
